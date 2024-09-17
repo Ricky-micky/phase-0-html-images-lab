@@ -95,7 +95,8 @@ code as shown above will keep your HTML code more readable.
 
 ### The Image Title Attribute
 
-One additional attribute that can be useful is the `title`. Content added to
+One additional attribute that can berick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-images-lab$erick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-imageerick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-images-lerick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-imagerick@erick-Latitude-5480:~/Develerick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-htmlerick@erick-Latitude-5480:~/Development/code/phase-8/phaseerick@erick-Latitude-5480:~/Development/code/phase-8/phaerick@erick-Latitude-5480:~/Developmerick@erick-Latitude-5480:~/erick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-images-lab$ 
+e useful is the `title`. Content added to
 this attribute will display when we hover over the image with our mouse. If we
 were creating an `img` tag with `src`, `alt` and `title` for a company logo, it
 might look something like this:
@@ -109,7 +110,8 @@ might look something like this:
 ```
 
 When a visitor to your company site hovers over the logo, they'll see a message
-appear saying 'We're here to help you!'
+appear saying 'We're here to help erick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-images-lab$erick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-imageerick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-images-lerick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-imagerick@erick-Latitude-5480:~/Develerick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-htmlerick@erick-Latitude-5480:~/Development/code/phase-8/phaseerick@erick-Latitude-5480:~/Development/code/phase-8/phaerick@erick-Latitude-5480:~/Developmerick@erick-Latitude-5480:~/erick@erick-Latitude-5480:~/Development/code/phase-8/phase-0-html-images-lab$ 
+you!'
 
 The `title` attribute isn't necessary and is often left out, but can be a nice
 detail to include.
